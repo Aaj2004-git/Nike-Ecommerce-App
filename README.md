@@ -4,6 +4,7 @@
       <img src="public/readme/hero.webp" alt="Project Banner">
     </a>
   <br />
+</div>
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6"/>
@@ -151,4 +152,4 @@ The application includes the following tables:
 - **orders**: Customer orders
 - **order_items**: Individual items in orders
 
-</div>
+
