@@ -151,4 +151,4 @@ The application includes the following tables:
 - **orders**: Customer orders
 - **order_items**: Individual items in orders
 
-
+</div>
